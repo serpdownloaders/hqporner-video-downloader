@@ -1,0 +1,209 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/hqporner-downloader",
+  "serply_link": "https://serp.ly/hqporner-downloader",
+  "app_name": "Hqporner Video Downloader",
+  "short_description": "Download & Save Hqporner Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "Downloader for Hqporner is a browser extension aimed at Hqporner's HD archive-style page flow. Rather than generic video detection, this extension is built around the site's /hdporn/...html URL structure and the likely player handoff through embedded iframe delivery. When the page exposes a direct MP4 source, the extension surfaces it for quick local saving.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/hqporner-downloader-fullscreen-01-839641ec78.webp",
+    "https://apps.serp.co/media/optimized-products/hqporner-downloader-fullscreen-02-47e34ad23e.webp",
+    "https://apps.serp.co/media/optimized-products/hqporner-downloader-fullscreen-03-61b8f68068.webp",
+    "https://apps.serp.co/media/optimized-products/hqporner-downloader-fullscreen-04-791d929813.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "Does this extension work on every Hqporner page?",
+      "answer": "The extension is built for Hqporner's /hdporn/ HD archive pages. Other sections may not be supported."
+    },
+    {
+      "question": "What format will my downloaded files be in?",
+      "answer": "Files are saved in MP4 format, which works with most media players and devices."
+    },
+    {
+      "question": "Is my download history tracked or shared?",
+      "answer": "The extension is designed with privacy in mind. Downloads happen locally and are not shared with third parties."
+    },
+    {
+      "question": "Why does the extension mention mydaddy.cc?",
+      "answer": "Hqporner uses embedded players that may hand off playback through mydaddy.cc frames. The extension is built to detect media from this delivery path."
+    },
+    {
+      "question": "Is this a fully proven release adapter?",
+      "answer": "The extension is a verified target candidate. Marketing positions it honestly with awareness that it is still in candidate stage."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    }
+  ],
+  "features": [
+    "Hqporner-specific extension identity and product URL",
+    "Verified target with focused /hdporn/ route support",
+    "Built around embed handoff and direct file discovery",
+    "Stream hints include MP4 for straightforward downloads",
+    "Shared-core factory candidate with clear expectations",
+    "Hqporner-specific extension with dedicated product page and support",
+    "Verified target support for /hdporn/ route patterns",
+    "Detection built around embed handoff and direct MP4 discovery",
+    "Clean popup interface for managing downloads",
+    "Direct file saving in standard MP4 format",
+    "Shared-core reliability with factory candidate transparency",
+    "No account or login required to use the extension",
+    "Lightweight extension that runs only on supported Hqporner pages"
+  ],
+  "content": {
+    "why": [
+      "Many video downloaders treat every adult site the same way, using generic detection that ignores Hqporner's unique page structure. Hqporner organizes its HD content under /hdporn/ routes and delivers playback through embedded iframe handoffs, often involving mydaddy.cc player frames. A one-size-fits-all approach misses these details and leaves users frustrated when downloads fail.",
+      "This extension is built specifically for Hqporner's HD archive pages. Instead of vague promises, it focuses on the actual page pattern and embed delivery path. When the page exposes a direct MP4 source through the iframe handoff, the extension detects it and lets you save the file locally. You get a tool that understands Hqporner's structure rather than guessing at it."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open Hqporner and go to a supported /hdporn/...html video page.",
+      "Let the page load and the embed handoff resolve.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Install the Hqporner Downloader extension from the latest GitHub release.",
+      "Open your browser and navigate to Hqporner.com.",
+      "Browse or search for an HD video under the /hdporn/ section.",
+      "Click the video to open its dedicated page with the /hdporn/...html URL.",
+      "Wait for the page to fully load and the embedded player to appear.",
+      "Click the extension icon in your browser toolbar to open the popup.",
+      "Review the detected MP4 source and select your preferred quality.",
+      "Click the download button and save the file to your local machine."
+    ],
+    "supported_formats": [
+      "Input: Hqporner /hdporn/ video pages with embed handoff through mydaddy.cc or similar iframe delivery exposing direct MP4 sources",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "Hqporner visitors who want to save HD videos from the site's archive pages",
+      "Users who prefer a targeted downloader over generic all-site solutions",
+      "People who understand that embed handoff requires specific detection",
+      "Archivists who want to keep local copies of their favorite HD content"
+    ],
+    "use_cases": [
+      "Saving HD videos from Hqporner's /hdporn/ archive for offline viewing",
+      "Building a personal local collection of Hqporner content",
+      "Avoiding buffering issues by watching downloaded files instead of streaming",
+      "Archiving videos that may be removed or become unavailable later",
+      "Transferring videos to devices without reliable internet access"
+    ],
+    "troubleshooting": [
+      "The extension does not detect any video on the page. Make sure you are on a supported /hdporn/...html video page and that the page has fully loaded with the embed player visible.",
+      "The download starts but fails halfway through. Check your internet connection and try again. Some large files may require a stable connection to complete.",
+      "The popup shows no sources available. The embed handoff may not have resolved yet. Refresh the page and wait for the player to load fully before opening the popup.",
+      "The extension icon is grayed out on Hqporner. You may be on a page that does not match the supported /hdporn/ pattern. Navigate to a video page under the HD archive section.",
+      "I see an error about unsupported page format. The extension is designed for Hqporner's HD archive pages specifically. Other sections of the site may not be supported."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported Hqporner page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "The extension works best on Hqporner's /hdporn/ HD archive pages",
+      "Embed handoff resolution may take a moment after page load"
+    ],
+    "about": [
+      "Hqporner is an adult video platform known for its HD archive section organized under /hdporn/ routes. The site delivers video content through embedded player handoffs, making targeted detection tools valuable for users who want to save files locally."
+    ]
+  },
+  "serpx_link": "https://serpx.link/hqporner-downloader",
+  "github_topics": [
+    "hqporner-download",
+    "hqporner-downloader",
+    "hqporner-video-downloader",
+    "hqporner-video-downloader-online",
+    "hqporner-video-downloader-mac",
+    "hqporner-video-downloader-window",
+    "hqporner-video-downloader-free",
+    "hqporner-video-downloader-extension",
+    "hqporner-video-downloader-app",
+    "hqporner-video-downloader-chrome",
+    "hqporner-video-downloader-from-url",
+    "how-to-download-hqporner-videos",
+    "how-to-download-hqporner-videos-mac",
+    "how-to-download-hqporner-videos-windows",
+    "how-to-download-hqporner-videos-online",
+    "how-to-download-hqporner-videos-free",
+    "how-to-download-from-hqporner",
+    "how-to-download-videos-from-hqporner",
+    "download-hqporner-videos",
+    "hqporner-video-tutorial",
+    "save-hqporner-videos",
+    "hqporner-video-content-saver",
+    "how-to-download-hqporner-videos-for-free"
+  ],
+  "hashtags": [
+    "#HqpornerDownload",
+    "#HqpornerDownloader",
+    "#HqpornerVideoDownloader",
+    "#HqpornerVideoDownloaderOnline",
+    "#HqpornerVideoDownloaderMac",
+    "#HqpornerVideoDownloaderWindow",
+    "#HqpornerVideoDownloaderFree",
+    "#HqpornerVideoDownloaderExtension",
+    "#HqpornerVideoDownloaderApp",
+    "#HqpornerVideoDownloaderChrome",
+    "#HqpornerVideoDownloaderFromURL",
+    "#HowToDownloadHqpornerVideos",
+    "#HowToDownloadHqpornerVideosMac",
+    "#HowToDownloadHqpornerVideosWindows",
+    "#HowToDownloadHqpornerVideosOnline",
+    "#HowToDownloadHqpornerVideosFree",
+    "#HowToDownloadFromHqporner",
+    "#HowToDownloadVideosFromHqporner",
+    "#DownloadHqpornerVideos",
+    "#HqpornerVideoTutorial",
+    "#SaveHqpornerVideos",
+    "#HqpornerVideoContentSaver",
+    "#HowToDownloadHqpornerVideosForFree"
+  ],
+  "youtube_tags": [
+    "Hqporner Download",
+    "Hqporner Downloader",
+    "Hqporner Video Downloader",
+    "Hqporner Video Downloader Online",
+    "Hqporner Video Downloader Mac",
+    "Hqporner Video Downloader Window",
+    "Hqporner Video Downloader Free",
+    "Hqporner Video Downloader Extension",
+    "Hqporner Video Downloader App",
+    "Hqporner Video Downloader Chrome",
+    "Hqporner Video Downloader From URL",
+    "How To Download Hqporner Videos",
+    "How To Download Hqporner Videos Mac",
+    "How To Download Hqporner Videos Windows",
+    "How To Download Hqporner Videos Online",
+    "How To Download Hqporner Videos Free",
+    "How To Download From Hqporner",
+    "How To Download Videos From Hqporner",
+    "Download Hqporner Videos",
+    "Hqporner Video Tutorial",
+    "Save Hqporner Videos",
+    "Hqporner Video Content Saver",
+    "How To Download Hqporner Videos For Free"
+  ]
+}
